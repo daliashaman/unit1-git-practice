@@ -87,6 +87,12 @@ rm -r drinks
 
 
 ### Step 4
+cd /user/daliashaman
+cd desktop
+cd unit1-git-practice
+git init
+git add .
+git status
 
 
 ### Step 5
