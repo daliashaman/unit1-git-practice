@@ -107,7 +107,7 @@ cd ls
 git status
 git add .
 git commit -m "starting a menu"
-git push
+git push .
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
